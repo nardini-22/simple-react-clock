@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.fc54c43b.js",
+    "static/media/fotomanha.png": "/static/media/fotomanha.f6e02e8e6ef755b2596a.png",
+    "static/media/fototarde.png": "/static/media/fototarde.a9520030ece645c662df.png",
+    "static/media/fotonoite.png": "/static/media/fotonoite.9791a910d106d26725dd.png",
+    "index.html": "/index.html",
+    "main.fc54c43b.js.map": "/static/js/main.fc54c43b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fc54c43b.js"
+  ]
+}
