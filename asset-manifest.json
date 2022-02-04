@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.fc54c43b.js",
-    "static/media/fotomanha.png": "/static/media/fotomanha.f6e02e8e6ef755b2596a.png",
-    "static/media/fototarde.png": "/static/media/fototarde.a9520030ece645c662df.png",
-    "static/media/fotonoite.png": "/static/media/fotonoite.9791a910d106d26725dd.png",
-    "index.html": "/index.html",
-    "main.fc54c43b.js.map": "/static/js/main.fc54c43b.js.map"
+    "main.js": "/simple-react-clock/static/js/main.86820aeb.js",
+    "static/media/fotomanha.png": "/simple-react-clock/static/media/fotomanha.f6e02e8e6ef755b2596a.png",
+    "static/media/fototarde.png": "/simple-react-clock/static/media/fototarde.a9520030ece645c662df.png",
+    "static/media/fotonoite.png": "/simple-react-clock/static/media/fotonoite.9791a910d106d26725dd.png",
+    "index.html": "/simple-react-clock/index.html",
+    "main.86820aeb.js.map": "/simple-react-clock/static/js/main.86820aeb.js.map"
   },
   "entrypoints": [
-    "static/js/main.fc54c43b.js"
+    "static/js/main.86820aeb.js"
   ]
 }
