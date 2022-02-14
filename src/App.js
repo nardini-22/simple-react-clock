@@ -7,12 +7,17 @@ import { Footer, Header, Section, Texts } from "./styles/styles";
 
 export default function App() {
   let date = new Date();
-  let hour = date.getHours();
+  let date2 = new Date().toLocaleString();
+  let hour = date.getHours().toString();
+  let minute = date.getMinutes().toString();
+  let second = date.getSeconds().toString();
+  let formattedHours = `${hour}:${minute}:${second}`
+  console.log(date2)
   // let hour = 18;
   const [hours, setHours] = useState();
   useEffect(() => {
-    setHours(hour);
-  }, [hour]);
+    setHours(formattedHours);
+  }, [formattedHours]);
   return (
     <>
       <GlobalStyle hours={hours} />
